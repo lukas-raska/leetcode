@@ -1,6 +1,6 @@
-package leetcode.task_976;
+package leetcode.task_0976;
 
-import leetcode.task_976.largest_perimeter_triangle.Main0976;
+import leetcode.task_0976.largest_perimeter_triangle.Main0976;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

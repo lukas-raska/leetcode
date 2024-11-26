@@ -1,4 +1,4 @@
-package leetcode.task_976.largest_perimeter_triangle;
+package leetcode.task_0976.largest_perimeter_triangle;
 
 import java.util.Arrays;
 
