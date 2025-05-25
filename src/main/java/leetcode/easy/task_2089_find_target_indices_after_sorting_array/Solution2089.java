@@ -21,10 +21,12 @@ public class Solution2089 {
             }
         }
 
-        return IntStream
-                .range(lessThanTargetCount, lessThanTargetCount + targetCount)
-                .boxed()
-                .toList();
+        List<Integer> indices = new ArrayList<>();
+        for (int i = lessThanTargetCount; i < lessThanTargetCount+targetCount ; i++) {
+            indices.add(i);
+        }
+
+        return indices;
     }
 
     public List<Integer> targetIndices3(int[] nums,
