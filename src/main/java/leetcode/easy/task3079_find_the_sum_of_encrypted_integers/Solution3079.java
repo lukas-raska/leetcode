@@ -1,4 +1,4 @@
-package leetcode.easy._3079_find_the_sum_of_encrypted_integers;
+package leetcode.easy.task3079_find_the_sum_of_encrypted_integers;
 
 public class Solution3079 {
 
