@@ -1,4 +1,4 @@
-package leetcode.easy.task3423_maximum_difference_between_adjacent_elements_in_a_circular_array;
+package leetcode.easy.task_3423_maximum_difference_between_adjacent_elements_in_a_circular_array;
 
 public class Solution3423 {
 
