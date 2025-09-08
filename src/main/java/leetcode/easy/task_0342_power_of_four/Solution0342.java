@@ -1,4 +1,4 @@
-package leetcode.easy.tas_0342_power_of_four;
+package leetcode.easy.task_0342_power_of_four;
 
 public class Solution0342 {
 
